@@ -9,13 +9,13 @@
 LIS3DHTR<TwoWire> lis;
 
 // WiFi network name and password:
-const char * networkName = "Turksat_Kablonet_p2Zm_2.4";
-const char * networkPswd = "xnRmF3Bk";
+const char * networkName = "SSID";
+const char * networkPswd = "Password";
 
 //IP address to send UDP data to:
 // either use the ip address of the server or 
 // a network broadcast address
-const char * udpAddress = "192.168.18.7";
+const char * udpAddress = "192.168.18.7"; // IP адрес на который передаем.
 const int udpPort = 3333;
 
 //Are we currently connected?
