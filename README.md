@@ -1,9 +1,11 @@
 # Virtual-joystick-Wio-Terminal
-Использование акселерометра Wio Terminal для управления в игре War Thunder
+Использование акселерометра Wio Terminal для эмуляции джойстика в игре War Thunder
 
 SerialPort.
-Сервер и клиент для передачи показаний акселерометра через Serial port с wio Terminal на ПК. 
+Сервер и клиент для передачи показаний акселерометра через Serial port с Wio Terminal на ПК. 
 GUI разработан с помощью Win Form.
 
-
+Bluetooth.
+Сервер и клиент для передачи показаний акселерометра через Bluetooth BLE с Wio Terminal на ПК. 
+Консольное приложение, python
 
