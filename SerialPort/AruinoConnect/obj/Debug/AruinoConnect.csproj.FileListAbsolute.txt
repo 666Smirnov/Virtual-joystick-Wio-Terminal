@@ -1,0 +1,13 @@
+L:\VS_Project\AruinoConnect\bin\Debug\AruinoConnect.exe.config
+L:\VS_Project\AruinoConnect\bin\Debug\AruinoConnect.exe
+L:\VS_Project\AruinoConnect\bin\Debug\AruinoConnect.pdb
+L:\VS_Project\AruinoConnect\obj\Debug\AruinoConnect.csproj.AssemblyReference.cache
+L:\VS_Project\AruinoConnect\obj\Debug\AruinoConnect.csproj.SuggestedBindingRedirects.cache
+L:\VS_Project\AruinoConnect\obj\Debug\AruinoConnect.Properties.Resources.resources
+L:\VS_Project\AruinoConnect\obj\Debug\AruinoConnect.csproj.GenerateResource.cache
+L:\VS_Project\AruinoConnect\obj\Debug\AruinoConnect.csproj.CoreCompileInputs.cache
+L:\VS_Project\AruinoConnect\obj\Debug\AruinoConnect.exe
+L:\VS_Project\AruinoConnect\obj\Debug\AruinoConnect.pdb
+L:\VS_Project\AruinoConnect\bin\Debug\vJoyInterfaceWrap.dll
+L:\VS_Project\AruinoConnect\obj\Debug\AruinoConnect.csproj.CopyComplete
+L:\VS_Project\AruinoConnect\obj\Debug\AruinoConnect.SignalFilter.resources
